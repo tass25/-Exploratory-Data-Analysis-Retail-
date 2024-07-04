@@ -1,5 +1,5 @@
 # -Exploratory-Data-Analysis-Retail-
-## the dataset : ### https://bit.ly/3i4rbWl . 
+#### the dataset :https://bit.ly/3i4rbWl . 
 
 ## Goal 🎯
 Analyze sales distribution by category and shipping mode, explore correlations between sales, quantity, and profit, and examine state-wise deal distributions.
