@@ -1,4 +1,4 @@
-# -Exploratory-Data-Analysis-Retail-
+# Exploratory-Data-Analysis-Retail-
 #### the dataset :https://bit.ly/3i4rbWl . 
 
 ## Goal 🎯
@@ -12,4 +12,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 3. **State Analysis**: Investigate deal distribution and profitability by state.
 4. **Environment**: This analysis is performed using JupyterLite.
 
-####for any informations : laboutesse@gmail.com
+#### for any informations : laboutesse@gmail.com
